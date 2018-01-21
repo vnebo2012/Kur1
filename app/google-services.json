@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543288287602",
+    "firebase_url": "https://myapplication2-bc80e.firebaseio.com",
+    "project_id": "myapplication2-bc80e",
+    "storage_bucket": "myapplication2-bc80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543288287602:android:4ca81f3627284595",
+        "android_client_info": {
+          "package_name": "com.dastory.fermer.free.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543288287602-ptqqq3d1iugm3169babte0939ulqk5ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dastory.fermer.free.myapplication",
+            "certificate_hash": "ee461dd1f24fbfd69564c9ea8f3f88e847a5d3f4"
+          }
+        },
+        {
+          "client_id": "543288287602-hapaj4toajr6anm5ikb9efr7u2hmov3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbYNxnIaS8F1G2xJrM6eiKjZIm93Tox0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543288287602-hapaj4toajr6anm5ikb9efr7u2hmov3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
